@@ -1,3 +1,5 @@
+#Here is the final SQL Script
+
 CREATE TABLE Service_Centre (  
     storeid integer,  
     address varchar2(20),  
